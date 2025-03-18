@@ -333,4 +333,20 @@ const App = () => {
               Statistics
             </button>
             <button
-          <response clipped><NOTE>To save on context only part of this file has been shown to you. You should retry this tool after you have searched inside the file with `grep -n` in order to find the line numbers of what you are looking for.</NOTE>
+              className={`px-3 py-1 mx-1 rounded ${view === 'upsets' ? 'bg-blue-500 text-white' : 'bg-gray-200'}`}
+              onClick={() => setView('upsets')}
+            >
+              Upsets
+            </button>
+          </div>
+        </div>
+      </div>
+      
+      {view === 'bracket' && renderBracketView()}
+      {view === 'stats' && renderStatsView()}
+      {view === 'upsets' && renderUpsetsView()}
+    </div>
+  );
+};
+
+export default App;

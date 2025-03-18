@@ -11,7 +11,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        main: './src/main.jsx',
+        main: '/home/ubuntu/ncaa_visualization/ncaa-bracket-viz/src/main.js',
       },
     },
   },
