@@ -1,0 +1,503 @@
+{
+  "first_round": {
+    "East": [
+      {
+        "team1": {
+          "name": "Duke",
+          "seed": "1"
+        },
+        "team2": {
+          "name": "American",
+          "seed": "16b"
+        },
+        "winner": {
+          "name": "Duke",
+          "seed": "1"
+        },
+        "probability": 0.991
+      },
+      {
+        "team1": {
+          "name": "Kentucky",
+          "seed": "8"
+        },
+        "team2": {
+          "name": "Team_East_9",
+          "seed": "9"
+        },
+        "winner": {
+          "name": "Kentucky",
+          "seed": "8"
+        },
+        "probability": 0.605
+      },
+      {
+        "team1": {
+          "name": "Team_East_5",
+          "seed": "5"
+        },
+        "team2": {
+          "name": "Team_East_12",
+          "seed": "12"
+        },
+        "winner": {
+          "name": "Team_East_5",
+          "seed": "5"
+        },
+        "probability": 0.644
+      },
+      {
+        "team1": {
+          "name": "Team_East_4",
+          "seed": "4"
+        },
+        "team2": {
+          "name": "Team_East_13",
+          "seed": "13"
+        },
+        "winner": {
+          "name": "Team_East_4",
+          "seed": "4"
+        },
+        "probability": 0.746
+      },
+      {
+        "team1": {
+          "name": "Team_East_6",
+          "seed": "6"
+        },
+        "team2": {
+          "name": "Team_East_11a",
+          "seed": "11a"
+        },
+        "winner": {
+          "name": "Team_East_6",
+          "seed": "6"
+        },
+        "probability": 0.628
+      },
+      {
+        "team1": {
+          "name": "Team_East_3",
+          "seed": "3"
+        },
+        "team2": {
+          "name": "Team_East_14",
+          "seed": "14"
+        },
+        "winner": {
+          "name": "Team_East_3",
+          "seed": "3"
+        },
+        "probability": 0.846
+      },
+      {
+        "team1": {
+          "name": "Team_East_7",
+          "seed": "7"
+        },
+        "team2": {
+          "name": "Team_East_10",
+          "seed": "10"
+        },
+        "winner": {
+          "name": "Team_East_7",
+          "seed": "7"
+        },
+        "probability": 0.601
+      },
+      {
+        "team1": {
+          "name": "Alabama",
+          "seed": "2"
+        },
+        "team2": {
+          "name": "Team_East_15",
+          "seed": "15"
+        },
+        "winner": {
+          "name": "Alabama",
+          "seed": "2"
+        },
+        "probability": 0.882
+      }
+    ],
+    "West": [
+      {
+        "team1": {
+          "name": "Florida",
+          "seed": "1"
+        },
+        "team2": {
+          "name": "Team_West_16a",
+          "seed": "16a"
+        },
+        "winner": {
+          "name": "Florida",
+          "seed": "1"
+        },
+        "probability": 0.989
+      },
+      {
+        "team1": {
+          "name": "Team_West_8",
+          "seed": "8"
+        },
+        "team2": {
+          "name": "Team_West_9",
+          "seed": "9"
+        },
+        "winner": {
+          "name": "Team_West_9",
+          "seed": "9"
+        },
+        "probability": 0.525
+      },
+      {
+        "team1": {
+          "name": "Michigan",
+          "seed": "5"
+        },
+        "team2": {
+          "name": "UC San Diego",
+          "seed": "12"
+        },
+        "winner": {
+          "name": "Michigan",
+          "seed": "5"
+        },
+        "probability": 0.575
+      },
+      {
+        "team1": {
+          "name": "Team_West_4",
+          "seed": "4"
+        },
+        "team2": {
+          "name": "Team_West_13",
+          "seed": "13"
+        },
+        "winner": {
+          "name": "Team_West_4",
+          "seed": "4"
+        },
+        "probability": 0.765
+      },
+      {
+        "team1": {
+          "name": "Team_West_6",
+          "seed": "6"
+        },
+        "team2": {
+          "name": "Team_West_11a",
+          "seed": "11a"
+        },
+        "winner": {
+          "name": "Team_West_6",
+          "seed": "6"
+        },
+        "probability": 0.63
+      },
+      {
+        "team1": {
+          "name": "Team_West_3",
+          "seed": "3"
+        },
+        "team2": {
+          "name": "Team_West_14",
+          "seed": "14"
+        },
+        "winner": {
+          "name": "Team_West_3",
+          "seed": "3"
+        },
+        "probability": 0.853
+      },
+      {
+        "team1": {
+          "name": "Team_West_7",
+          "seed": "7"
+        },
+        "team2": {
+          "name": "Team_West_10",
+          "seed": "10"
+        },
+        "winner": {
+          "name": "Team_West_7",
+          "seed": "7"
+        },
+        "probability": 0.607
+      },
+      {
+        "team1": {
+          "name": "Team_West_2",
+          "seed": "2"
+        },
+        "team2": {
+          "name": "Team_West_15",
+          "seed": "15"
+        },
+        "winner": {
+          "name": "Team_West_2",
+          "seed": "2"
+        },
+        "probability": 0.933
+      }
+    ],
+    "South": [
+      {
+        "team1": {
+          "name": "Auburn",
+          "seed": "1"
+        },
+        "team2": {
+          "name": "Team_South_16b",
+          "seed": "16b"
+        },
+        "winner": {
+          "name": "Auburn",
+          "seed": "1"
+        },
+        "probability": 0.986
+      },
+      {
+        "team1": {
+          "name": "Team_South_8",
+          "seed": "8"
+        },
+        "team2": {
+          "name": "Team_South_9",
+          "seed": "9"
+        },
+        "winner": {
+          "name": "Team_South_9",
+          "seed": "9"
+        },
+        "probability": 0.514
+      },
+      {
+        "team1": {
+          "name": "Team_South_5",
+          "seed": "5"
+        },
+        "team2": {
+          "name": "Team_South_12",
+          "seed": "12"
+        },
+        "winner": {
+          "name": "Team_South_5",
+          "seed": "5"
+        },
+        "probability": 0.643
+      },
+      {
+        "team1": {
+          "name": "Team_South_4",
+          "seed": "4"
+        },
+        "team2": {
+          "name": "Team_South_13",
+          "seed": "13"
+        },
+        "winner": {
+          "name": "Team_South_4",
+          "seed": "4"
+        },
+        "probability": 0.798
+      },
+      {
+        "team1": {
+          "name": "Team_South_6",
+          "seed": "6"
+        },
+        "team2": {
+          "name": "Team_South_11b",
+          "seed": "11b"
+        },
+        "winner": {
+          "name": "Team_South_6",
+          "seed": "6"
+        },
+        "probability": 0.622
+      },
+      {
+        "team1": {
+          "name": "Team_South_3",
+          "seed": "3"
+        },
+        "team2": {
+          "name": "Team_South_14",
+          "seed": "14"
+        },
+        "winner": {
+          "name": "Team_South_3",
+          "seed": "3"
+        },
+        "probability": 0.841
+      },
+      {
+        "team1": {
+          "name": "Team_South_7",
+          "seed": "7"
+        },
+        "team2": {
+          "name": "Team_South_10",
+          "seed": "10"
+        },
+        "winner": {
+          "name": "Team_South_7",
+          "seed": "7"
+        },
+        "probability": 0.615
+      },
+      {
+        "team1": {
+          "name": "Michigan State",
+          "seed": "2"
+        },
+        "team2": {
+          "name": "Team_South_15",
+          "seed": "15"
+        },
+        "winner": {
+          "name": "Michigan State",
+          "seed": "2"
+        },
+        "probability": 0.992
+      }
+    ],
+    "Midwest": [
+      {
+        "team1": {
+          "name": "Houston",
+          "seed": "1"
+        },
+        "team2": {
+          "name": "Team_Midwest_16b",
+          "seed": "16b"
+        },
+        "winner": {
+          "name": "Houston",
+          "seed": "1"
+        },
+        "probability": 0.991
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_8",
+          "seed": "8"
+        },
+        "team2": {
+          "name": "Team_Midwest_9",
+          "seed": "9"
+        },
+        "winner": {
+          "name": "Team_Midwest_9",
+          "seed": "9"
+        },
+        "probability": 0.509
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_5",
+          "seed": "5"
+        },
+        "team2": {
+          "name": "Team_Midwest_12",
+          "seed": "12"
+        },
+        "winner": {
+          "name": "Team_Midwest_5",
+          "seed": "5"
+        },
+        "probability": 0.661
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_4",
+          "seed": "4"
+        },
+        "team2": {
+          "name": "Team_Midwest_13",
+          "seed": "13"
+        },
+        "winner": {
+          "name": "Team_Midwest_4",
+          "seed": "4"
+        },
+        "probability": 0.783
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_6",
+          "seed": "6"
+        },
+        "team2": {
+          "name": "Team_Midwest_11a",
+          "seed": "11a"
+        },
+        "winner": {
+          "name": "Team_Midwest_6",
+          "seed": "6"
+        },
+        "probability": 0.606
+      },
+      {
+        "team1": {
+          "name": "Iowa State",
+          "seed": "3"
+        },
+        "team2": {
+          "name": "Team_Midwest_14",
+          "seed": "14"
+        },
+        "winner": {
+          "name": "Iowa State",
+          "seed": "3"
+        },
+        "probability": 0.911
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_7",
+          "seed": "7"
+        },
+        "team2": {
+          "name": "Team_Midwest_10",
+          "seed": "10"
+        },
+        "winner": {
+          "name": "Team_Midwest_7",
+          "seed": "7"
+        },
+        "probability": 0.61
+      },
+      {
+        "team1": {
+          "name": "Team_Midwest_2",
+          "seed": "2"
+        },
+        "team2": {
+          "name": "Team_Midwest_15",
+          "seed": "15"
+        },
+        "winner": {
+          "name": "Team_Midwest_2",
+          "seed": "2"
+        },
+        "probability": 0.913
+      }
+    ]
+  },
+  "second_round": {},
+  "sweet_16": {},
+  "elite_8": {},
+  "final_four": {},
+  "championship": {},
+  "champion": {
+    "name": "Florida",
+    "seed": "1",
+    "region": "West",
+    "probability": 0.236
+  }
+}
